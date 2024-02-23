@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wasanchez
-- 👀 I’m interested in martial arts and 
-- 🌱 I’m currently learning japanese and Blazor
-- 💞️ I’m looking to collaborate on my own projects
+- 👀 I’m interested in working on projects with Node.js, Express.js and TypeScript.
+- 🌱 I’m currently learning japanese and Node.js
+- 💞️ I’m looking to collaborate on Node.js and .NET projects
 - 📫 How to reach me wasanchez@icloud.com
 
 <!---
